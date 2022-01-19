@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Walls
+    uniqueID: 1851870653
+    locked: 0
   - name: Furnishings
     uniqueID: 3164026429
     locked: 0
